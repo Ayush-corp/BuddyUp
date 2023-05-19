@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/buddyup/buddyup.iml" filepath="$PROJECT_DIR$/buddyup/buddyup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buddyup/android/buddyup_android.iml" filepath="$PROJECT_DIR$/buddyup/android/buddyup_android.iml" />
     </modules>
   </component>
 </project>
