@@ -1,0 +1,3 @@
+1. Create the Database using command `flask db_create`
+2. Seed the Database using command `flas db_seed`
+3. Run command `foreman start`
